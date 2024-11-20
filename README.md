@@ -1,7 +1,7 @@
 # Английский
 - 👋 Hi, I’m Anton Alexandrovich Klyuev
 - 👀 I’m interested in programming, especially in PHP
-- 🌱 I'm currently reading about the Ada
+- 🌱 I’m currently reading about the Ada
 - 💞️ I’m looking to collaborate with Sailor Moon :-)
 - 📫 How to reach me? Email: freemandns@mail.ru
 
